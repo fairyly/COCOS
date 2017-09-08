@@ -5,6 +5,13 @@ COCOS DEMO
 ------->[点击体验StarScoreGame](https://fairyly.github.io/COCOS/start_project/build/web-mobile/index.html)
 
 
+## 预制资源（Prefab）
+
+  即可创建出一个预制：在场景中编辑好节点后，直接将节点从 层级管理器 拖到 资源管理器：  
+  即可创建出一个预制
+  
+
+
 ## 切换场景
 
 ```
