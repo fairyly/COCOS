@@ -121,7 +121,7 @@ getUserData	Function	获取自定义事件的信息（属于 cc.Event.EventCusto
 
 * 原生发布代码库
 
-打包发布 Android 平台需要的代码库：
+  打包发布 Android 平台需要的代码库：
 
 * [Android SDK Windows](http://cocostudio.download.appget.cn/android-sdk/android-sdk-win.zip)
 * [Android SDK Mac](http://cocostudio.download.appget.cn/Cocos/CocosStore/android22-sdk-macosx.zip)
@@ -133,43 +133,43 @@ getUserData	Function	获取自定义事件的信息（属于 cc.Event.EventCusto
 
   - 代码编辑工具
 
-  [VS Code](https://code.visualstudio.com/) 微软推出的轻量级文本编辑器，支持 Cocos Creator 代码提示和语法高亮
+    [VS Code](https://code.visualstudio.com/) 微软推出的轻量级文本编辑器，支持 Cocos Creator 代码提示和语法高亮
   
-  [WebStorm](https://www.jetbrains.com/webstorm/)
+    [WebStorm](https://www.jetbrains.com/webstorm/)
   
-  [Sublime Text](http://www.sublimetext.com/)
+    [Sublime Text](http://www.sublimetext.com/)
   
-  [Atom](https://atom.io/)
+    [Atom](https://atom.io/)
 
   - 图集生产工具
 
-  [TexturePacker](https://www.codeandweb.com/texturepacker)
+    [TexturePacker](https://www.codeandweb.com/texturepacker)
   
-  [Zwoptex](https://zwopple.com/zwoptex/)
+    [Zwoptex](https://zwopple.com/zwoptex/)
   
   - 位图字体生产工具
 
-  [Glyph Designer](https://71squared.com/glyphdesigner)
+    [Glyph Designer](https://71squared.com/glyphdesigner)
   
-  [Hiero](https://github.com/libgdx/libgdx/wiki/Hiero)
+    [Hiero](https://github.com/libgdx/libgdx/wiki/Hiero)
   
-  [BMFont (Windows)](http://www.angelcode.com/products/bmfont/)
+    [BMFont (Windows)](http://www.angelcode.com/products/bmfont/)
   
   - 2D 骨骼动画工具
 
-  [Spine](http://esotericsoftware.com/)
+    [Spine](http://esotericsoftware.com/)
   
-  [Spriter](http://brashmonkey.com/spriter.htm)
+    [Spriter](http://brashmonkey.com/spriter.htm)
   
-  [DragonBones](http://www.angelcode.com/products/bmfont/)
+    [DragonBones](http://www.angelcode.com/products/bmfont/)
   
   
   - 粒子特效制作工具
 
-  [Particle Designer](http://particledesigner.71squared.com/)
+    [Particle Designer](http://particledesigner.71squared.com/)
   
-  [Particle2dx](http://www.effecthub.com/particle2dx)：免费在线工具
+    [Particle2dx](http://www.effecthub.com/particle2dx)：免费在线工具
   
   - 其他游戏开发资源
 
-  [Cocos Store](http://store.cocos.com/)：各类游戏美术资源、扩展工具
+    [Cocos Store](http://store.cocos.com/)：各类游戏美术资源、扩展工具
