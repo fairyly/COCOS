@@ -123,11 +123,11 @@ getUserData	Function	获取自定义事件的信息（属于 cc.Event.EventCusto
 
   打包发布 Android 平台需要的代码库：
 
-* [Android SDK Windows](http://cocostudio.download.appget.cn/android-sdk/android-sdk-win.zip)
-* [Android SDK Mac](http://cocostudio.download.appget.cn/Cocos/CocosStore/android22-sdk-macosx.zip)
-* [Android NDK Windows 32位](http://cocostudio.download.appget.cn/Cocos/CocosStore/android-ndk-r10d-windows-x86.zip)
-* [Android NDK Windows 64位](http://cocostudio.download.appget.cn/Cocos/CocosStore/android-ndk-r10e-Windows.zip)
-* [Android NDK Mac](http://cocostudio.download.appget.cn/Cocos/CocosStore/android-ndk-r10e-macosx.zip)
+  - [Android SDK Windows](http://cocostudio.download.appget.cn/android-sdk/android-sdk-win.zip)
+  - [Android SDK Mac](http://cocostudio.download.appget.cn/Cocos/CocosStore/android22-sdk-macosx.zip)
+  - [Android NDK Windows 32位](http://cocostudio.download.appget.cn/Cocos/CocosStore/android-ndk-r10d-windows-x86.zip)
+  - [Android NDK Windows 64位](http://cocostudio.download.appget.cn/Cocos/CocosStore/android-ndk-r10e-Windows.zip)
+  - [Android NDK Mac](http://cocostudio.download.appget.cn/Cocos/CocosStore/android-ndk-r10e-macosx.zip)
 
 * 其他第三方工具和资源
 
